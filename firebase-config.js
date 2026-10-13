@@ -1,9 +1,9 @@
 // Firebase Web App config (PUBLIK), dari Project settings > Your apps.
 // JANGAN letakkan service-account JSON/private key di sini.
 self.FIREBASE_CONFIG = {
-  apiKey: 'ISI_FIREBASE_API_KEY',
+  apiKey: 'AIzaSyB6ha1EDvEO005Kw6GPHCQiIj_sptSCvY8',
   authDomain: 'ceklis-7kaih-sdnsindang2.firebaseapp.com',
   projectId: 'ceklis-7kaih-sdnsindang2',
-  messagingSenderId: 'ISI_SENDER_ID',
-  appId: 'ISI_APP_ID'
+  messagingSenderId: '500702022443',
+  appId: '1:500702022443:web:028aab6a618981585d136e'
 };
