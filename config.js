@@ -1,3 +1,3 @@
 // Isi dengan URL deployment GAS UJI (jangan gunakan produksi dulu) dan VAPID PUBLIC KEY.
 export const GAS_WEBAPP_URL = 'https://script.google.com/macros/s/ISI_DEPLOYMENT_UJI/exec';
-export const VAPID_PUBLIC_KEY = 'ISI_VAPID_PUBLIC_KEY';
+export const VAPID_PUBLIC_KEY = 'BObzDkIvCxj1T7WluSpc_W_lCkrIsxsjplBNRVD7qxTdog7QBNUEUUmHp0QT04dm9ncesVALxSRd8EjjsGIOvyk';
